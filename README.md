@@ -5,7 +5,7 @@ Krishi Tech is an all-in-one agricultural platform designed to assist farmers an
 
 ## Features
 
-- Crop Recommendation: Suggests the best crops to plant based on soil conditions, climate, and other environmental factors.
+- Crop Recommendation: Suggests the best crops to plant based on soil conditions(N,P,K,pH), climate, and other environmental factors.
 - Fertilizer Recommendation: Provides suggestions for the types of fertilizers to use for different crops, enhancing growth and yield.
 - Leaf Disease Detection: Utilizes image recognition to detect diseases from plant leaf images, helping farmers to take timely action to protect their crops.
 
